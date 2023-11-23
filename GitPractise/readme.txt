@@ -1,1 +1,2 @@
-Taiji lab is systematic project, not simple scientific laboratory.
+Taiji lab is a systematic project, is not a simple scientific laboratory.
+遇事不决，可问春风。
